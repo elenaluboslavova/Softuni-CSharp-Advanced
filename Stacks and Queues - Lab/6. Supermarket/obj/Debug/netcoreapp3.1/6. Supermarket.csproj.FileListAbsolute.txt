@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.genruntimeconfig.cache

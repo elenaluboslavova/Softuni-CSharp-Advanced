@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.genruntimeconfig.cache
