@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.genruntimeconfig.cache
