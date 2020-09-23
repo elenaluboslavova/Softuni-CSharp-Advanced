@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\bin\Debug\netcoreapp3.1\7. Knight Game.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\7. Knight Game\obj\Debug\netcoreapp3.1\7. Knight Game.genruntimeconfig.cache
