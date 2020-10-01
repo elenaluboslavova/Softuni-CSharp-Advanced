@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.genruntimeconfig.cache

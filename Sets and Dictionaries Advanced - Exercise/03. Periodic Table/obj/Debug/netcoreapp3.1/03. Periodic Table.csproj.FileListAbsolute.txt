@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.genruntimeconfig.cache
