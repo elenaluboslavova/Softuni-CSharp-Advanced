@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.genruntimeconfig.cache
