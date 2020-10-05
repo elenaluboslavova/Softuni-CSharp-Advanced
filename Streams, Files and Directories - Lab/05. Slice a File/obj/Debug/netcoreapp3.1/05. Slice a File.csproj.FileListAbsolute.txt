@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\bin\Debug\netcoreapp3.1\05. Slice a File.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\bin\Debug\netcoreapp3.1\05. Slice a File.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\bin\Debug\netcoreapp3.1\05. Slice a File.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\bin\Debug\netcoreapp3.1\05. Slice a File.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\bin\Debug\netcoreapp3.1\05. Slice a File.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\bin\Debug\netcoreapp3.1\05. Slice a File.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\obj\Debug\netcoreapp3.1\05. Slice a File.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\obj\Debug\netcoreapp3.1\05. Slice a File.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\obj\Debug\netcoreapp3.1\05. Slice a File.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\obj\Debug\netcoreapp3.1\05. Slice a File.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\obj\Debug\netcoreapp3.1\05. Slice a File.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\05. Slice a File\obj\Debug\netcoreapp3.1\05. Slice a File.genruntimeconfig.cache
