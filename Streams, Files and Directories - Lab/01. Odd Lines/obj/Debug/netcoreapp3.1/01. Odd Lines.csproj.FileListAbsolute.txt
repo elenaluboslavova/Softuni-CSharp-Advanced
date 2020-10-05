@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.genruntimeconfig.cache

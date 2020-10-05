@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp3.1\04. Merge Files.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp3.1\04. Merge Files.genruntimeconfig.cache

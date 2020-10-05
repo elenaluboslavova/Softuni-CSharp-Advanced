@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.genruntimeconfig.cache
