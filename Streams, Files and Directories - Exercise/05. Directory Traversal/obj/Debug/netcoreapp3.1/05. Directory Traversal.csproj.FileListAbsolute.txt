@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\bin\Debug\netcoreapp3.1\05. Directory Traversal.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\05. Directory Traversal\obj\Debug\netcoreapp3.1\05. Directory Traversal.genruntimeconfig.cache
