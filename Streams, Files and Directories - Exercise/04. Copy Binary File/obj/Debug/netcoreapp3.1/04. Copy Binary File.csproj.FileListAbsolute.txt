@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\bin\Debug\netcoreapp3.1\04. Copy Binary File.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\bin\Debug\netcoreapp3.1\04. Copy Binary File.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\bin\Debug\netcoreapp3.1\04. Copy Binary File.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\bin\Debug\netcoreapp3.1\04. Copy Binary File.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\bin\Debug\netcoreapp3.1\04. Copy Binary File.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\bin\Debug\netcoreapp3.1\04. Copy Binary File.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\obj\Debug\netcoreapp3.1\04. Copy Binary File.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\obj\Debug\netcoreapp3.1\04. Copy Binary File.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\obj\Debug\netcoreapp3.1\04. Copy Binary File.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\obj\Debug\netcoreapp3.1\04. Copy Binary File.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\obj\Debug\netcoreapp3.1\04. Copy Binary File.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Streams, Files and Directories - Exercise\04. Copy Binary File\obj\Debug\netcoreapp3.1\04. Copy Binary File.genruntimeconfig.cache
