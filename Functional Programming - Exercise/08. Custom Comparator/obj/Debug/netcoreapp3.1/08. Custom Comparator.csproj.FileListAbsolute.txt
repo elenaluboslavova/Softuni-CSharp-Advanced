@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.genruntimeconfig.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.csprojAssemblyReference.cache
