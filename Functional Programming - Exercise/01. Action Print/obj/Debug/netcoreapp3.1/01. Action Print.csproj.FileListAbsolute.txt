@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.genruntimeconfig.cache

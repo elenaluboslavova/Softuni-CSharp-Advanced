@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.genruntimeconfig.cache
