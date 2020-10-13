@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\bin\Debug\netcoreapp3.1\RawData.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Defining Classes - Exercise\RawData\obj\Debug\netcoreapp3.1\RawData.genruntimeconfig.cache
