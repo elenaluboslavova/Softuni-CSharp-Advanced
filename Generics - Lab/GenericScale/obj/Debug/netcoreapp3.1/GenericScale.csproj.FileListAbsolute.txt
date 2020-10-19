@@ -1,0 +1,12 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Generics - Lab\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.genruntimeconfig.cache
