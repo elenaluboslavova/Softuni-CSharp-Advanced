@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache
