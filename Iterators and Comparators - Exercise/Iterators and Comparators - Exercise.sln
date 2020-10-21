@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterators and Comparators - Exercise", "Iterators and Comparators - Exercise\Iterators and Comparators - Exercise.csproj", "{A963D5DA-8C9C-43C0-87C3-12709CD3544B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Froggy", "04.Froggy\04.Froggy.csproj", "{A87330C2-6B70-4A9B-AA64-1025721344BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ComparingObjects", "05.ComparingObjects\05.ComparingObjects.csproj", "{93D7DA4B-3CC0-4F15-8941-9238CF7CB536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EqualityLogic", "06.EqualityLogic\06.EqualityLogic.csproj", "{E1048679-6897-449F-8420-927C341D02C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A963D5DA-8C9C-43C0-87C3-12709CD3544B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A963D5DA-8C9C-43C0-87C3-12709CD3544B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A963D5DA-8C9C-43C0-87C3-12709CD3544B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A963D5DA-8C9C-43C0-87C3-12709CD3544B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87330C2-6B70-4A9B-AA64-1025721344BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87330C2-6B70-4A9B-AA64-1025721344BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87330C2-6B70-4A9B-AA64-1025721344BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87330C2-6B70-4A9B-AA64-1025721344BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D7DA4B-3CC0-4F15-8941-9238CF7CB536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D7DA4B-3CC0-4F15-8941-9238CF7CB536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D7DA4B-3CC0-4F15-8941-9238CF7CB536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D7DA4B-3CC0-4F15-8941-9238CF7CB536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1048679-6897-449F-8420-927C341D02C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1048679-6897-449F-8420-927C341D02C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1048679-6897-449F-8420-927C341D02C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1048679-6897-449F-8420-927C341D02C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A3A638-E050-4FDD-8C1F-6E3E18100C77}
+	EndGlobalSection
+EndGlobal
