@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 28 June 2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.genruntimeconfig.cache
