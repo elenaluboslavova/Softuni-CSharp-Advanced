@@ -1,0 +1,17 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\obj\Debug\netcoreapp3.1\ClassroomProject.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 25 October 2020\03. Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache
