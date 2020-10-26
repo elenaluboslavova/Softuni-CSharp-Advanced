@@ -1,0 +1,13 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\bin\Debug\netcoreapp3.1\1. Santa's Present Factory.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\bin\Debug\netcoreapp3.1\1. Santa's Present Factory.deps.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\bin\Debug\netcoreapp3.1\1. Santa's Present Factory.runtimeconfig.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\bin\Debug\netcoreapp3.1\1. Santa's Present Factory.runtimeconfig.dev.json
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\bin\Debug\netcoreapp3.1\1. Santa's Present Factory.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\bin\Debug\netcoreapp3.1\1. Santa's Present Factory.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\obj\Debug\netcoreapp3.1\1. Santa's Present Factory.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\obj\Debug\netcoreapp3.1\1. Santa's Present Factory.AssemblyInfoInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\obj\Debug\netcoreapp3.1\1. Santa's Present Factory.AssemblyInfo.cs
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\obj\Debug\netcoreapp3.1\1. Santa's Present Factory.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\obj\Debug\netcoreapp3.1\1. Santa's Present Factory.dll
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\obj\Debug\netcoreapp3.1\1. Santa's Present Factory.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Exams\Exam - 17 December 2019\1. Santa's Present Factory\obj\Debug\netcoreapp3.1\1. Santa's Present Factory.genruntimeconfig.cache
