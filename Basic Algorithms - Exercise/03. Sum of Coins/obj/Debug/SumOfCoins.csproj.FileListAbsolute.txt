@@ -1,0 +1,7 @@
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\SumOfCoins.exe.config
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\SumOfCoins.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\SumOfCoins.pdb
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\SumOfCoins.csprojAssemblyReference.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\SumOfCoins.exe
+C:\Users\Elena Luboslavova\Desktop\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\SumOfCoins.pdb
